@@ -1,0 +1,1 @@
+export default function Page(){return <main><h1>AI Cinematic Visuals</h1><p>Turn your existing images into content that sells the experience.</p></main>}
